@@ -1,0 +1,16 @@
+{
+  "国内直播源": [
+    "https://live.hacks.tools/tv/iptv4.txt",
+    "https://live.hacks.tools/tv/iptv4.m3u"
+  ],
+  "IPv6直播源": [
+    "https://live.hacks.tools/tv/iptv6.txt",
+    "https://live.hacks.tools/tv/iptv6.m3u"
+  ],
+  "FM收音机源": [
+    "https://live.hacks.tools/radio/m3u/index.m3u"
+  ],
+  "国际直播源": [
+    "https://live.hacks.tools/iptv/index.m3u"
+  ]
+}
